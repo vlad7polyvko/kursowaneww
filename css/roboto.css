@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Thin'), local('Roboto-Thin'), url("../fonts/robotothin.woff2"/*tpa=http://hotclever.ru/css/robotothin.woff2*/) format('woff2'), url("../fonts/robotothin.woff"/*tpa=http://hotclever.ru/css/robotothin.woff*/) format('woff'), url("../fonts/robotothin.ttf"/*tpa=http://hotclever.ru/css/robotothin.ttf*/) format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Thin Italic'), local('Roboto-ThinItalic'), url("../fonts/robotothinitalic.woff2"/*tpa=http://hotclever.ru/css/robotothinitalic.woff2*/) format('woff2'), url("../fonts/robotothinitalic.woff"/*tpa=http://hotclever.ru/css/robotothinitalic.woff*/) format('woff'), url("../fonts/robotothinitalic.ttf"/*tpa=http://hotclever.ru/css/robotothinitalic.ttf*/) format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Light'), local('Roboto-Light'), url("../fonts/robotolight.woff2"/*tpa=http://hotclever.ru/css/robotolight.woff2*/) format('woff2'), url("../fonts/robotolight.woff"/*tpa=http://hotclever.ru/css/robotolight.woff*/) format('woff'), url("../fonts/robotolight.ttf"/*tpa=http://hotclever.ru/css/robotolight.ttf*/) format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Light Italic'), local('Roboto-LightItalic'), url("../fonts/robotolightitalic.woff2"/*tpa=http://hotclever.ru/css/robotolightitalic.woff2*/) format('woff2'), url("../fonts/robotolightitalic.woff"/*tpa=http://hotclever.ru/css/robotolightitalic.woff*/) format('woff'), url("../fonts/robotolightitalic.ttf"/*tpa=http://hotclever.ru/css/robotolightitalic.ttf*/) format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto'), local('Roboto-Regular'), url("../fonts/roboto.woff2"/*tpa=http://hotclever.ru/css/roboto.woff2*/) format('woff2'), url("../fonts/roboto.woff"/*tpa=http://hotclever.ru/css/roboto.woff*/) format('woff'), url("../fonts/roboto.ttf"/*tpa=http://hotclever.ru/css/roboto.ttf*/) format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Italic'), local('Roboto-Italic'), url("../fonts/robotoitalic.woff2"/*tpa=http://hotclever.ru/css/robotoitalic.woff2*/) format('woff2'), url("../fonts/robotoitalic.woff"/*tpa=http://hotclever.ru/css/robotoitalic.woff*/) format('woff'), url("../fonts/robotoitalic.ttf"/*tpa=http://hotclever.ru/css/robotoitalic.ttf*/) format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Medium'), local('Roboto-Medium'), url("../fonts/robotomedium.woff2"/*tpa=http://hotclever.ru/css/robotomedium.woff2*/) format('woff2'), url("../fonts/robotomedium.woff"/*tpa=http://hotclever.ru/css/robotomedium.woff*/) format('woff'), url("../fonts/robotomedium.ttf"/*tpa=http://hotclever.ru/css/robotomedium.ttf*/) format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Medium Italic'), local('Roboto-MediumItalic'), url("../fonts/robotomediumitalic.woff2"/*tpa=http://hotclever.ru/css/robotomediumitalic.woff2*/) format('woff2'), url("../fonts/robotomediumitalic.woff"/*tpa=http://hotclever.ru/css/robotomediumitalic.woff*/) format('woff'), url("../fonts/robotomediumitalic.ttf"/*tpa=http://hotclever.ru/css/robotomediumitalic.ttf*/) format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Bold'), local('Roboto-Bold'), url("../fonts/robotobold.woff2"/*tpa=http://hotclever.ru/css/robotobold.woff2*/) format('woff2'), url("../fonts/robotobold.woff"/*tpa=http://hotclever.ru/css/robotobold.woff*/) format('woff'), url("../fonts/robotobold.ttf"/*tpa=http://hotclever.ru/css/robotobold.ttf*/) format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'), url("../fonts/robotobolditalic.woff2"/*tpa=http://hotclever.ru/css/robotobolditalic.woff2*/) format('woff2'), url("../fonts/robotobolditalic.woff"/*tpa=http://hotclever.ru/css/robotobolditalic.woff*/) format('woff'), url("../fonts/robotobolditalic.ttf"/*tpa=http://hotclever.ru/css/robotobolditalic.ttf*/) format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Black'), local('Roboto-Black'), url("../fonts/robotoblack.woff2"/*tpa=http://hotclever.ru/css/robotoblack.woff2*/) format('woff2'), url("../fonts/robotoblack.woff"/*tpa=http://hotclever.ru/css/robotoblack.woff*/) format('woff'), url("../fonts/robotoblack.ttf"/*tpa=http://hotclever.ru/css/robotoblack.ttf*/) format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Black Italic'), local('Roboto-BlackItalic'), url("../fonts/robotoblackitalic.woff2"/*tpa=http://hotclever.ru/css/robotoblackitalic.woff2*/) format('woff2'), url("../fonts/robotoblackitalic.woff"/*tpa=http://hotclever.ru/css/robotoblackitalic.woff*/) format('woff'), url("../fonts/robotoblackitalic.ttf"/*tpa=http://hotclever.ru/css/robotoblackitalic.ttf*/) format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}

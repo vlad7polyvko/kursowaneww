@@ -1,0 +1,388 @@
+Uri: http://bro.sadbysad.space/
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\index.htm
+Content Type: text/html
+
+Uri: http://bro.sadbysad.space/images/favicon.png
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\favicon.png
+Content Type: image/png
+
+Uri: http://bro.sadbysad.space/css/reset.css
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\css\reset.css
+Content Type: text/css
+
+Uri: http://bro.sadbysad.space/css/owl.carousel.min.css
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: http://bro.sadbysad.space/css/styles.css
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\css\styles.css
+Content Type: text/css
+
+Uri: http://bro.sadbysad.space/css/roboto.css
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\css\roboto.css
+Content Type: text/css
+
+Uri: http://bro.sadbysad.space/js/fbevents.js
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\js\fbevents.js
+Content Type: application/javascript
+
+Uri: http://bro.sadbysad.space/images/offer2__image.jpg
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\offer2__image.jpg
+Content Type: image/jpeg
+
+Uri: http://bro.sadbysad.space/images/slider__image1.jpg
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\slider__image1.jpg
+Content Type: image/jpeg
+
+Uri: http://bro.sadbysad.space/images/slider__image2.jpg
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\slider__image2.jpg
+Content Type: image/jpeg
+
+Uri: http://bro.sadbysad.space/images/slider__image3.jpg
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\slider__image3.jpg
+Content Type: image/jpeg
+
+Uri: http://bro.sadbysad.space/images/slider__image4.jpg
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\slider__image4.jpg
+Content Type: image/jpeg
+
+Uri: http://bro.sadbysad.space/images/slider__image5.jpg
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\slider__image5.jpg
+Content Type: image/jpeg
+
+Uri: http://bro.sadbysad.space/images/slider__image6.jpg
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\slider__image6.jpg
+Content Type: image/jpeg
+
+Uri: http://bro.sadbysad.space/images/slider__image7.jpg
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\slider__image7.jpg
+Content Type: image/jpeg
+
+Uri: http://bro.sadbysad.space/images/1vid.jpg
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\1vid.jpg
+Content Type: image/jpeg
+
+Uri: http://bro.sadbysad.space/images/2vid.jpg
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\2vid.jpg
+Content Type: image/jpeg
+
+Uri: http://bro.sadbysad.space/images/3vid.jpg
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\3vid.jpg
+Content Type: image/jpeg
+
+Uri: http://bro.sadbysad.space/images/4vid.jpg
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\4vid.jpg
+Content Type: image/jpeg
+
+Uri: http://bro.sadbysad.space/images/5vid.jpg
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\5vid.jpg
+Content Type: image/jpeg
+
+Uri: http://bro.sadbysad.space/images/order_steps__step1_icon.png
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\order_steps__step1_icon.png
+Content Type: image/png
+
+Uri: http://bro.sadbysad.space/images/order_steps__step2_icon.png
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\order_steps__step2_icon.png
+Content Type: image/png
+
+Uri: http://bro.sadbysad.space/images/order_steps__step3_icon.png
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\order_steps__step3_icon.png
+Content Type: image/png
+
+Uri: http://bro.sadbysad.space/images/order_steps__step4_icon.png
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\order_steps__step4_icon.png
+Content Type: image/png
+
+Uri: http://bro.sadbysad.space/js/jquery.js
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\js\jquery.js
+Content Type: application/javascript
+
+Uri: http://bro.sadbysad.space/js/jquery-3.3.1.min.js
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\js\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: http://bro.sadbysad.space/js/previewYouTube.js
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\js\previewYouTube.js
+Content Type: application/javascript
+
+Uri: http://bro.sadbysad.space/js/owl.carousel.min.js
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://bro.sadbysad.space/js/scripts.js
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\js\scripts.js
+Content Type: application/javascript
+
+Uri: http://bro.sadbysad.space/images/owl.video.play.png
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\owl.video.play.png
+Content Type: image/png
+
+Uri: http://bro.sadbysad.space/fonts/Montserrat-Regular.woff2
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\Montserrat-Regular.woff2
+Content Type: font/woff2
+
+Uri: http://bro.sadbysad.space/fonts/Montserrat-Regular.woff
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\Montserrat-Regular.woff
+Content Type: font/woff
+
+Uri: http://bro.sadbysad.space/fonts/Montserrat-Regular.ttf
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\Montserrat-Regular.ttf
+Content Type: font/ttf
+
+Uri: http://bro.sadbysad.space/fonts/Montserrat-Bold.woff2
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\Montserrat-Bold.woff2
+Content Type: font/woff2
+
+Uri: http://bro.sadbysad.space/fonts/Montserrat-Bold.woff
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\Montserrat-Bold.woff
+Content Type: font/woff
+
+Uri: http://bro.sadbysad.space/fonts/Montserrat-Bold.ttf
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\Montserrat-Bold.ttf
+Content Type: font/ttf
+
+Uri: http://bro.sadbysad.space/images/separator_red.png
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\separator_red.png
+Content Type: image/png
+
+Uri: http://bro.sadbysad.space/images/separator_white.png
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\separator_white.png
+Content Type: image/png
+
+Uri: http://bro.sadbysad.space/images/offer1__discount_bg.png
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\offer1__discount_bg.png
+Content Type: image/png
+
+Uri: http://bro.sadbysad.space/images/offer3__discount_bg.png
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\offer3__discount_bg.png
+Content Type: image/png
+
+Uri: http://bro.sadbysad.space/images/offer1__timer_arrows.png
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\offer1__timer_arrows.png
+Content Type: image/png
+
+Uri: http://bro.sadbysad.space/images/offer2__discount_bg.png
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\offer2__discount_bg.png
+Content Type: image/png
+
+Uri: http://bro.sadbysad.space/images/offer__name_icon.png
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\offer__name_icon.png
+Content Type: image/png
+
+Uri: http://bro.sadbysad.space/images/offer__phone_icon.png
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\offer__phone_icon.png
+Content Type: image/png
+
+Uri: http://bro.sadbysad.space/images/slider__arrows.png
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\slider__arrows.png
+Content Type: image/png
+
+Uri: http://bro.sadbysad.space/images/bg_light.jpg
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\bg_light.jpg
+Content Type: image/jpeg
+
+Uri: http://bro.sadbysad.space/images/quote2_icon.png
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\quote2_icon.png
+Content Type: image/png
+
+Uri: http://bro.sadbysad.space/images/opinion2_bg.jpg
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\opinion2_bg.jpg
+Content Type: image/jpeg
+
+Uri: http://bro.sadbysad.space/images/quote1_icon.png
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\quote1_icon.png
+Content Type: image/png
+
+Uri: http://bro.sadbysad.space/images/reviews2__arrows.png
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\reviews2__arrows.png
+Content Type: image/png
+
+Uri: http://bro.sadbysad.space/images/reviews3__stars.png
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\reviews3__stars.png
+Content Type: image/png
+
+Uri: http://bro.sadbysad.space/images/reviews4_bg.png
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\reviews4_bg.png
+Content Type: image/png
+
+Uri: http://bro.sadbysad.space/images/reviews4__arrows.png
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\reviews4__arrows.png
+Content Type: image/png
+
+Uri: http://bro.sadbysad.space/images/order_steps1__step1_image.png
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\order_steps1__step1_image.png
+Content Type: image/png
+
+Uri: http://bro.sadbysad.space/images/order_steps1__step2_image.png
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\order_steps1__step2_image.png
+Content Type: image/png
+
+Uri: http://bro.sadbysad.space/images/order_steps1__step3_image.png
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\order_steps1__step3_image.png
+Content Type: image/png
+
+Uri: http://bro.sadbysad.space/images/order_steps1__step4_image.png
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\order_steps1__step4_image.png
+Content Type: image/png
+
+Uri: http://bro.sadbysad.space/images/order_steps2__step1_bg.jpg
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\order_steps2__step1_bg.jpg
+Content Type: image/jpeg
+
+Uri: http://bro.sadbysad.space/images/order_steps2__step2_bg.jpg
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\order_steps2__step2_bg.jpg
+Content Type: image/jpeg
+
+Uri: http://bro.sadbysad.space/images/order_steps2__step3_bg.jpg
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\order_steps2__step3_bg.jpg
+Content Type: image/jpeg
+
+Uri: http://bro.sadbysad.space/images/order_steps2__step4_bg.jpg
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\images\order_steps2__step4_bg.jpg
+Content Type: image/jpeg
+
+Uri: http://bro.sadbysad.space/fonts/robotothin.woff2
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotothin.woff2
+Content Type: font/woff2
+
+Uri: http://bro.sadbysad.space/fonts/robotothin.woff
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotothin.woff
+Content Type: font/woff
+
+Uri: http://bro.sadbysad.space/fonts/robotothin.ttf
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotothin.ttf
+Content Type: font/ttf
+
+Uri: http://bro.sadbysad.space/fonts/robotothinitalic.woff2
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotothinitalic.woff2
+Content Type: font/woff2
+
+Uri: http://bro.sadbysad.space/fonts/robotothinitalic.woff
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotothinitalic.woff
+Content Type: font/woff
+
+Uri: http://bro.sadbysad.space/fonts/robotothinitalic.ttf
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotothinitalic.ttf
+Content Type: font/ttf
+
+Uri: http://bro.sadbysad.space/fonts/robotolight.woff2
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotolight.woff2
+Content Type: font/woff2
+
+Uri: http://bro.sadbysad.space/fonts/robotolight.woff
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotolight.woff
+Content Type: font/woff
+
+Uri: http://bro.sadbysad.space/fonts/robotolight.ttf
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotolight.ttf
+Content Type: font/ttf
+
+Uri: http://bro.sadbysad.space/fonts/robotolightitalic.woff2
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotolightitalic.woff2
+Content Type: font/woff2
+
+Uri: http://bro.sadbysad.space/fonts/robotolightitalic.woff
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotolightitalic.woff
+Content Type: font/woff
+
+Uri: http://bro.sadbysad.space/fonts/robotolightitalic.ttf
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotolightitalic.ttf
+Content Type: font/ttf
+
+Uri: http://bro.sadbysad.space/fonts/roboto.woff2
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\roboto.woff2
+Content Type: font/woff2
+
+Uri: http://bro.sadbysad.space/fonts/roboto.woff
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\roboto.woff
+Content Type: font/woff
+
+Uri: http://bro.sadbysad.space/fonts/roboto.ttf
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\roboto.ttf
+Content Type: font/ttf
+
+Uri: http://bro.sadbysad.space/fonts/robotoitalic.woff2
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotoitalic.woff2
+Content Type: font/woff2
+
+Uri: http://bro.sadbysad.space/fonts/robotoitalic.woff
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotoitalic.woff
+Content Type: font/woff
+
+Uri: http://bro.sadbysad.space/fonts/robotoitalic.ttf
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotoitalic.ttf
+Content Type: font/ttf
+
+Uri: http://bro.sadbysad.space/fonts/robotomedium.woff2
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotomedium.woff2
+Content Type: font/woff2
+
+Uri: http://bro.sadbysad.space/fonts/robotomedium.woff
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotomedium.woff
+Content Type: font/woff
+
+Uri: http://bro.sadbysad.space/fonts/robotomedium.ttf
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotomedium.ttf
+Content Type: font/ttf
+
+Uri: http://bro.sadbysad.space/fonts/robotomediumitalic.woff2
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotomediumitalic.woff2
+Content Type: font/woff2
+
+Uri: http://bro.sadbysad.space/fonts/robotomediumitalic.woff
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotomediumitalic.woff
+Content Type: font/woff
+
+Uri: http://bro.sadbysad.space/fonts/robotomediumitalic.ttf
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotomediumitalic.ttf
+Content Type: font/ttf
+
+Uri: http://bro.sadbysad.space/fonts/robotobold.woff2
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotobold.woff2
+Content Type: font/woff2
+
+Uri: http://bro.sadbysad.space/fonts/robotobold.woff
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotobold.woff
+Content Type: font/woff
+
+Uri: http://bro.sadbysad.space/fonts/robotobold.ttf
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotobold.ttf
+Content Type: font/ttf
+
+Uri: http://bro.sadbysad.space/fonts/robotobolditalic.woff2
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotobolditalic.woff2
+Content Type: font/woff2
+
+Uri: http://bro.sadbysad.space/fonts/robotobolditalic.woff
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotobolditalic.woff
+Content Type: font/woff
+
+Uri: http://bro.sadbysad.space/fonts/robotobolditalic.ttf
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotobolditalic.ttf
+Content Type: font/ttf
+
+Uri: http://bro.sadbysad.space/fonts/robotoblack.woff2
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotoblack.woff2
+Content Type: font/woff2
+
+Uri: http://bro.sadbysad.space/fonts/robotoblack.woff
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotoblack.woff
+Content Type: font/woff
+
+Uri: http://bro.sadbysad.space/fonts/robotoblack.ttf
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotoblack.ttf
+Content Type: font/ttf
+
+Uri: http://bro.sadbysad.space/fonts/robotoblackitalic.woff2
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotoblackitalic.woff2
+Content Type: font/woff2
+
+Uri: http://bro.sadbysad.space/fonts/robotoblackitalic.woff
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotoblackitalic.woff
+Content Type: font/woff
+
+Uri: http://bro.sadbysad.space/fonts/robotoblackitalic.ttf
+File Name: C:\Users\poliv\Desktop\bro.sadbysad.space\fonts\robotoblackitalic.ttf
+Content Type: font/ttf
+
